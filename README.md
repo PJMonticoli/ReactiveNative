@@ -12,8 +12,22 @@
     npx expo lint
    ```
 
-3. **Instalar dependencias**:
+3. **Instalar dependencias y ejecutar linting**:
    ```sh
    npx expo install react-dom react-native-web @expo/metro-runtime
+   ```
+4. **Instalar Prettier y configuración de ESLint:**:
+
+   ```sh
    npx expo install prettier eslint-config-prettier eslint-plugin-prettier
+
+   ```
+
+5. **Instalar dependencias específicas::**:
+
+   ```sh
+   npx install react-native-safe-area-context
+   npx install react-native-svg
+   npx expo install expo-constants
+
    ```
