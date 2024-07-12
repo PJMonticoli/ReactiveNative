@@ -31,3 +31,7 @@
    npx expo install expo-constants
 
    ```
+
+## Recursos Utilizados
+
+- https://react-svgr.com/playground/
